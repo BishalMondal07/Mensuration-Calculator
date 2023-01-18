@@ -6,7 +6,6 @@
 #For Trapezium in Perimeter give input of all four sides in four input sections
 #For Trapezium in Area give input of the Length of parallel sides in Length_or_Radius_Diagonal1 and Breadth_or_base_or_Diagonal2
 #Give input "0" when input section doesn't require any input for any particular operation
-#You can write Total Surface Area as TSA and Curved Surface Area as CSA in input
 #All string inputs should start with capital letters but end with small letters (Example:Circle,Square,Total Surface Area)
 #In Cone in Curved Surface Area and Total Surface Area give input radius in Breadth_or_base_or_Diagonal2 input section(Note: It is for cone only)
 print("Read all the comments to use the calculator properly")
