@@ -8,7 +8,7 @@
 #Give input "0" when input section doesn't require any input for any particular operation
 #All string inputs should start with capital letters but end with small letters (Example:Circle,Square,Total Surface Area)
 #In Cone in Curved Surface Area and Total Surface Area give input radius in Breadth_or_base_or_Diagonal2 input section(Note: It is for cone only)
-print("Read all the comments to use the calculator properly")
+
 Figure = input("Enter the name of the figure :")
 Length_or_Radius_or_Diagonal1 = int(input("Enter the value of Length or Radius or Diagonal 1:"))
 Breadth_or_base_or_Diagonal2 = int(input("Enter the value of Breadth or Base or Diagonal2 :"))
